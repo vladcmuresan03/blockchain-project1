@@ -118,7 +118,6 @@ This file contains my progress in working on the Final Project for the Blockchai
 	```
 	then paste this and save it:
 	```
-	// SPDX-License-Identifier: MIT
 	pragma solidity ^0.8.0;
 	
 	import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
