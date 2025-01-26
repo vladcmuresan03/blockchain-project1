@@ -202,8 +202,6 @@ This file contains my progress in working on the Final Project for the Blockchai
     // Entry function for deploying the contract
     public entry fun deploy(ctx: &mut tx_context::TxContext): IBT<phantom T> {
         transfer::freeze_object(IBT {})
-    }
-}
-	```
+    }```
 
 	
